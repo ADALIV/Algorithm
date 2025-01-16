@@ -29,6 +29,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ADALIV/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ADALIV/Algorithm/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,4 +42,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ADALIV/Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ADALIV/Algorithm/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ADALIV/Algorithm/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
