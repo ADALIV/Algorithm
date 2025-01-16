@@ -22,6 +22,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0002-add-two-numbers](https://github.com/ADALIV/Algorithm/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ADALIV/Algorithm/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/ADALIV/Algorithm/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
