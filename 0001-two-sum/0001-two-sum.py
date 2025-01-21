@@ -5,7 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        for i in range(len(nums)):
-            for j in range(i+1, len(nums)):
-                if (nums[i]+nums[j]) == target:
-                    return [i, j]
+        index_dict = dict()
+        for index, num in enumerate(nums):
+            check = target - num
+            if check in index_dict:
+                return [index, index_dict[check]]
+            else:
+                index_dict[num] = index
