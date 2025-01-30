@@ -9,6 +9,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ADALIV/Algorithm/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ADALIV/Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [1582-design-browser-history](https://github.com/ADALIV/Algorithm/tree/master/1582-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ADALIV/Algorithm/tree/master/0002-add-two-numbers) |
+| [1582-design-browser-history](https://github.com/ADALIV/Algorithm/tree/master/1582-design-browser-history) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +57,20 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ADALIV/Algorithm/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/ADALIV/Algorithm/tree/master/1582-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/ADALIV/Algorithm/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/ADALIV/Algorithm/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/ADALIV/Algorithm/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
