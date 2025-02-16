@@ -37,6 +37,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ADALIV/Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ADALIV/Algorithm/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ADALIV/Algorithm/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/ADALIV/Algorithm/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ADALIV/Algorithm/tree/master/0020-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/ADALIV/Algorithm/tree/master/1582-design-browser-history) |
 ## Design
 |  |
