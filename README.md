@@ -9,6 +9,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ADALIV/Algorithm/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ADALIV/Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0739-daily-temperatures](https://github.com/ADALIV/Algorithm/tree/master/0739-daily-temperatures) |
 | [1582-design-browser-history](https://github.com/ADALIV/Algorithm/tree/master/1582-design-browser-history) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ADALIV/Algorithm/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/ADALIV/Algorithm/tree/master/0739-daily-temperatures) |
 | [1582-design-browser-history](https://github.com/ADALIV/Algorithm/tree/master/1582-design-browser-history) |
 ## Design
 |  |
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/ADALIV/Algorithm/tree/master/1582-design-browser-history) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ADALIV/Algorithm/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
