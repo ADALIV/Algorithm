@@ -9,6 +9,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ADALIV/Algorithm/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ADALIV/Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0128-longest-consecutive-sequence](https://github.com/ADALIV/Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0739-daily-temperatures](https://github.com/ADALIV/Algorithm/tree/master/0739-daily-temperatures) |
 | [1582-design-browser-history](https://github.com/ADALIV/Algorithm/tree/master/1582-design-browser-history) |
 ## Hash Table
@@ -16,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ADALIV/Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ADALIV/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/ADALIV/Algorithm/tree/master/0128-longest-consecutive-sequence) |
 ## Linked List
 |  |
 | ------- |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ADALIV/Algorithm/tree/master/0739-daily-temperatures) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ADALIV/Algorithm/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
