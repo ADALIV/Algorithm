@@ -5,10 +5,13 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        index_dict = dict()
-        for index, num in enumerate(nums):
-            check = target - num
-            if check in index_dict:
-                return [index, index_dict[check]]
-            else:
-                index_dict[num] = index
+        dict = {}
+        for i in range(len(nums)):
+            dict[nums[i]] = i
+        
+        for i in range(len(nums)):
+            if (target-nums[i]) in dict:
+                if i == dict[target-nums[i]]:
+                    continue
+                else:
+                    return [i, dict[target-nums[i]]]
