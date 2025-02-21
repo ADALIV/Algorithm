@@ -21,7 +21,7 @@ class Solution(object):
 
         while dq:
             node, depth = dq.popleft()
-            max_v = max(max_v, depth)
+            max_v = depth
             if node.left:
                 dq.append((node.left, depth+1))
             if node.right:
