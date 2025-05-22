@@ -32,6 +32,7 @@
 | [0002-add-two-numbers](https://github.com/ADALIV/Algorithm/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ADALIV/Algorithm/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ADALIV/Algorithm/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/ADALIV/Algorithm/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ADALIV/Algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/ADALIV/Algorithm/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/ADALIV/Algorithm/tree/master/0871-keys-and-rooms) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ADALIV/Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
