@@ -110,6 +110,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ADALIV/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ADALIV/Algorithm/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ADALIV/Algorithm/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0744-network-delay-time](https://github.com/ADALIV/Algorithm/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/ADALIV/Algorithm/tree/master/0871-keys-and-rooms) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ADALIV/Algorithm/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
@@ -123,6 +124,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ADALIV/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ADALIV/Algorithm/tree/master/0200-number-of-islands) |
+| [0744-network-delay-time](https://github.com/ADALIV/Algorithm/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/ADALIV/Algorithm/tree/master/0871-keys-and-rooms) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ADALIV/Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ADALIV/Algorithm/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -134,6 +136,7 @@
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/ADALIV/Algorithm/tree/master/0744-network-delay-time) |
 | [0871-keys-and-rooms](https://github.com/ADALIV/Algorithm/tree/master/0871-keys-and-rooms) |
 ## Memoization
 |  |
@@ -143,4 +146,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ADALIV/Algorithm/tree/master/0062-unique-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/ADALIV/Algorithm/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/ADALIV/Algorithm/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
