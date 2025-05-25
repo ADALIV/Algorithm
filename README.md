@@ -33,6 +33,7 @@
 | [0002-add-two-numbers](https://github.com/ADALIV/Algorithm/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ADALIV/Algorithm/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ADALIV/Algorithm/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/ADALIV/Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ADALIV/Algorithm/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ADALIV/Algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/ADALIV/Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ADALIV/Algorithm/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/ADALIV/Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 ## Stack
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ADALIV/Algorithm/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ADALIV/Algorithm/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
